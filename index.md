@@ -1,8 +1,7 @@
-title: Machine Learning & Analysis for Twitter Bot Detection
+Machine Learning & Analysis for Twitter Bot Detection
 ---
 Munmun, Daisuke, Motoaki (Group 48)
 
-<img src="index_files/twitcensor.jpg" alt="twitcensor" width="300"/>
 
 ## Motivation
 
